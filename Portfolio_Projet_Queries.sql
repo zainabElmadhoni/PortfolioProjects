@@ -1,4 +1,4 @@
-Portfolio Projet Queries DESKTOP-9ICMUAH
+-- Covid Data Exploration
 
 select * from CovidDeaths ;
 
